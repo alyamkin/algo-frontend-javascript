@@ -118,3 +118,4 @@ let str = 'abcd';
 // }
 
 // foo();
+[].for;
